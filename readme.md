@@ -1,2 +1,2 @@
-#A HEADING
-##Exercising git
+# A HEADING
+## Exercising git
