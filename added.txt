@@ -1,0 +1,2 @@
+A HOTFIX
+Note: This is a practice by coming back here and adding some more text to this file. I just need to do git add added.txt and then git commit -m 'ADDED MSG'to the local repo.Hopefully, i can merge it and push it back into the main in Github eventually!
